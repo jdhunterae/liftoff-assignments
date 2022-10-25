@@ -6,11 +6,9 @@
 
 ## Features
 
-> List 3-5 features that you will implement in your project. Each feature should have a name and a 1-2 sentence description. Here are a few examples for a blog application:
->
-> * **User login**: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-> * **Search**: Users will be able to search for blog posts containing given text.
-> * **Create Post**: Users will be able to create new blog posts when logged in. New posts will appear in the user’s profile.
+* **User login**: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+* **Search**: Users will be able to search for travel posts containing given text or by location or user.
+* **Create Post**: Users will be able to create new travel posts when logged in. New posts will appear in the user’s profile.
 
 ## Technologies
 
