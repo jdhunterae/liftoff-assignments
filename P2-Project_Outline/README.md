@@ -14,13 +14,15 @@
 
 ## Technologies
 
-> What languages and technologies will you use to build your application? For example, for the coding-events application from Unit 2 - Java, the technologies would be:
->
-> * Java
-> * Spring Boot
-> * MySQL
-> * Hibernate
-> * Thymeleaf templates
+* Java
+* Spring Boot
+* MySQL
+* Hibernate
+* Thymeleaf templates
+* HTML
+* CSS
+* Javascript
+* React (?)
 
 ## What I'll Have to Learn
 
