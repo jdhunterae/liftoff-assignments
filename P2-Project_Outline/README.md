@@ -28,5 +28,5 @@
 
 ## Project Tracker
 
-[Group board](https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022)
-[Personal board](https://trello.com/b/R88AKQ42/project)
+* [Group Trello board](https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022)
+* [Personal Trello board](https://trello.com/b/R88AKQ42/project)
