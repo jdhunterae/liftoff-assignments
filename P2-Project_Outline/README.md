@@ -2,7 +2,15 @@
 
 ## Overview
 
-> In 1-2 paragraphs, provide an “elevator pitch” for your project. This should be a high-level overview of your idea, in non-technical language. What will your app do? What might users find useful about it? Where did the idea come from?
+The next big thing in social media for travellers is `Travlog` (placeholder name).
+
+Our travel-based social media will allow users to create posts about their travels and vacations
+that are tagged to geo-locations (landmarks, cities, etc). They can post pictures and short
+text posts about their experience and their findings. They will also be able to search
+other user posts regarding that location to see what others have done and thought.
+
+Users will also be able to favorite and save different posts or locations to a `bucket list` of
+places they have, or would like to, visit.
 
 ## Features
 
@@ -24,7 +32,9 @@
 
 ## What I'll Have to Learn
 
-> In the course of building your project, you’ll have to learn something new. Perhaps you want to use data from a public API, or add a bit of JavaScript to make your front-end more interactive. If you can’t name the exact technology or technique that you’ll have to learn, you should still be able to describe a problem that you have identified that you don’t currently know how to solve.
+Besides continuing to brush up on my skills with Java SpringBoot, MySQL, and web templating. I will
+likely need to learn more about AJAX and Javascript programming to be able to update pages
+as the user clicks to filter and un-filter different options.
 
 ## Project Tracker
 
