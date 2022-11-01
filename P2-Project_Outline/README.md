@@ -38,5 +38,6 @@ as the user clicks to filter and un-filter different options.
 
 ## Project Tracker
 
+* [Miro Wireframe](https://miro.com/app/board/uXjVPIR75b8=/?share_link_id=914168740024)
 * [Group Trello board](https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022)
 * [Personal Trello board](https://trello.com/b/R88AKQ42/project)
